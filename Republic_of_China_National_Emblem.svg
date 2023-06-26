@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="600" viewBox="-300 -300 600 600">
+<circle fill="#000095" r="300"/>
+<circle fill="#FFF" r="100"/>
+<g id="c"><g id="b">
+<path id="a" fill="#FFF" d="m0-200 24,89a114,114 0 0,0-48,0"/>
+<use xlink:href="#a" transform="rotate(30)"/></g>
+<use xlink:href="#b" transform="rotate(60)"/></g>
+<use xlink:href="#c" transform="rotate(120)"/>
+<use xlink:href="#c" transform="rotate(240)"/>
+</svg>
